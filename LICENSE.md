@@ -3,6 +3,8 @@ Copyright (c) 2016, Guneetgstar
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
 copyright notice and this permission notice appear in all copies.
+Its an open source project but you don't have any right to take credit,
+make something similar, copy the project, or miss using this.
 
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
